@@ -5,4 +5,4 @@
 
 - 🔭 I’m currently working on something cool!
 - 💬 Ask me about Database management, Java and Fronted development 
-- 📫 How to reach me: vkrambuddy947@gmail.com
+- 📫 How to reach me: milijee2020@gmail.com
